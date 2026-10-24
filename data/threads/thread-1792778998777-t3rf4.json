@@ -1,0 +1,46 @@
+{
+  "id": "thread-1792778998777-t3rf4",
+  "title": "When is the next hackathon?",
+  "createdAt": "2026-10-23T18:09:58.777Z",
+  "updatedAt": "2026-10-23T18:09:58.811Z",
+  "messages": [
+    {
+      "id": "msg-1792778998793-u",
+      "role": "user",
+      "content": "When is the next hackathon?",
+      "createdAt": "2026-10-23T18:09:58.793Z"
+    },
+    {
+      "id": "msg-1792778998811-a",
+      "role": "assistant",
+      "content": "Based on verified PIT Jaunpur campus records:\n\n• **Hacktoberfest Hack Day Jaunpur 2026 Official Guide** (Hackathons):\n  # Hacktoberfest Hack Day Jaunpur 2026 **Date:** Saturday, 24 October 2026 **Timing:** 9:30 AM to 3:00 PM IST **Location:** Seminar Hall & Computer Center, Block B, Prasad Institute of Technology (PIT), Jaunpur, Uttar Pradesh. ## Event Overview Hacktoberfest Ha... [Source: Hacktoberfest Hack Day Jaunpur 2026 Official Guide]\n\n• **Hacktoberfest Hack Day Jaunpur 2026 Official Guide** (Hackathons):\n  ## Schedule - 09:30 AM – 10:00 AM: Check-in, Badge Collection & Welcome Breakfast - 10:00 AM – 10:30 AM: Opening Keynote & Challenge Briefing (Gemma 4 & MLH Tracks) - 10:30 AM – 01:00 PM: Hacking Phase 1 & Mentor Round 1 - 01:00 PM – 01:45 PM: Free Networking ... [Source: Hacktoberfest Hack Day Jaunpur 2026 Official Guide]\n\n• **Project Team Formation & Registration Guidelines** (Project Teams):\n  ## How to Find Teammates 1. **Online Matchmaking:** Join the official PIT Discord server channel `#pit-team-formation` to post your skills (e.g., Frontend, Backend, UI/UX, AI/ML) and find open teams. 2. **In-Person Matchmaking Desk:** If you arrive solo on hac... [Source: Project Team Formation & Registration Guidelines]\n\n*(Note: Grounded via local retrieval. For live neural Gemma 4 inference, add a free GEMINI_API_KEY from Google AI Studio in .env.local)*",
+      "createdAt": "2026-10-23T18:09:58.811Z",
+      "citations": [
+        {
+          "docId": "doc-hacktoberfest-2026",
+          "title": "Hacktoberfest Hack Day Jaunpur 2026 Official Guide",
+          "category": "Hackathons",
+          "snippet": "# Hacktoberfest Hack Day Jaunpur 2026\n\n**Date:** Saturday, 24 October 2026\n**Timing:** 9:30 AM to 3:00 PM IST\n**Location:** Seminar Hall & Computer Center, Bloc...",
+          "score": 1
+        },
+        {
+          "docId": "doc-hacktoberfest-2026",
+          "title": "Hacktoberfest Hack Day Jaunpur 2026 Official Guide",
+          "category": "Hackathons",
+          "snippet": "## Schedule\n- 09:30 AM – 10:00 AM: Check-in, Badge Collection & Welcome Breakfast\n- 10:00 AM – 10:30 AM: Opening Keynote & Challenge Briefing (Gemma 4 & MLH Tra...",
+          "score": 0.9
+        },
+        {
+          "docId": "doc-team-formation",
+          "title": "Project Team Formation & Registration Guidelines",
+          "category": "Project Teams",
+          "snippet": "## How to Find Teammates\n1. **Online Matchmaking:** Join the official PIT Discord server channel `#pit-team-formation` to post your skills (e.g., Frontend, Back...",
+          "score": 0.8
+        }
+      ],
+      "groundingMode": "local-preview",
+      "modelUsed": "Local Grounded Engine ($0 Free Tier)",
+      "retrievalScore": 17.79
+    }
+  ]
+}

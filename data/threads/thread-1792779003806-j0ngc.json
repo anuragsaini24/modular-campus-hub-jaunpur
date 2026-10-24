@@ -1,0 +1,46 @@
+{
+  "id": "thread-1792779003806-j0ngc",
+  "title": "How do I join a project team?",
+  "createdAt": "2026-10-23T18:10:03.806Z",
+  "updatedAt": "2026-10-23T18:10:03.840Z",
+  "messages": [
+    {
+      "id": "msg-1792779003822-u",
+      "role": "user",
+      "content": "How do I join a project team?",
+      "createdAt": "2026-10-23T18:10:03.822Z"
+    },
+    {
+      "id": "msg-1792779003839-a",
+      "role": "assistant",
+      "content": "Based on verified PIT Jaunpur campus records:\n\n• **Project Team Formation & Registration Guidelines** (Project Teams):\n  ## How to Find Teammates 1. **Online Matchmaking:** Join the official PIT Discord server channel `#pit-team-formation` to post your skills (e.g., Frontend, Backend, UI/UX, AI/ML) and find open teams. 2. **In-Person Matchmaking Desk:** If you arrive solo on hac... [Source: Project Team Formation & Registration Guidelines]\n\n• **Project Team Formation & Registration Guidelines** (Project Teams):\n  # How to Form or Join a Project Team at PIT Jaunpur ## Team Size Rules - Teams can consist of 1 to 4 members. Cross-department teams (e.g., Computer Science + Information Technology + Electronics) are strongly encouraged. - Solo participants are allowed, but c... [Source: Project Team Formation & Registration Guidelines]\n\n• **Project Team Formation & Registration Guidelines** (Project Teams):\n  ## Registering Your Team - Once your team is formed, the team leader must register on the Hack Day Portal by 10:30 AM with:   - Team Name   - Member Names, Student Roll Numbers, and College Email IDs   - Chosen Track / Idea Summary   - GitHub Repository URL (m... [Source: Project Team Formation & Registration Guidelines]\n\n*(Note: Grounded via local retrieval. For live neural Gemma 4 inference, add a free GEMINI_API_KEY from Google AI Studio in .env.local)*",
+      "createdAt": "2026-10-23T18:10:03.839Z",
+      "citations": [
+        {
+          "docId": "doc-team-formation",
+          "title": "Project Team Formation & Registration Guidelines",
+          "category": "Project Teams",
+          "snippet": "## How to Find Teammates\n1. **Online Matchmaking:** Join the official PIT Discord server channel `#pit-team-formation` to post your skills (e.g., Frontend, Back...",
+          "score": 1
+        },
+        {
+          "docId": "doc-team-formation",
+          "title": "Project Team Formation & Registration Guidelines",
+          "category": "Project Teams",
+          "snippet": "# How to Form or Join a Project Team at PIT Jaunpur\n\n## Team Size Rules\n- Teams can consist of 1 to 4 members. Cross-department teams (e.g., Computer Science + ...",
+          "score": 0.9
+        },
+        {
+          "docId": "doc-team-formation",
+          "title": "Project Team Formation & Registration Guidelines",
+          "category": "Project Teams",
+          "snippet": "## Registering Your Team\n- Once your team is formed, the team leader must register on the Hack Day Portal by 10:30 AM with:\n  - Team Name\n  - Member Names, Stud...",
+          "score": 0.8
+        }
+      ],
+      "groundingMode": "local-preview",
+      "modelUsed": "Local Grounded Engine ($0 Free Tier)",
+      "retrievalScore": 70.86
+    }
+  ]
+}

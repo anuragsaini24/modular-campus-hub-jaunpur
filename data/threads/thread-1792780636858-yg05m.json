@@ -1,0 +1,24 @@
+{
+  "id": "thread-1792780636858-yg05m",
+  "title": "Where is the campus swimming pool located?",
+  "createdAt": "2026-10-23T18:37:16.858Z",
+  "updatedAt": "2026-10-23T18:37:16.903Z",
+  "messages": [
+    {
+      "id": "msg-1792780636885-u",
+      "role": "user",
+      "content": "Where is the campus swimming pool located?",
+      "createdAt": "2026-10-23T18:37:16.885Z"
+    },
+    {
+      "id": "msg-1792780636902-a",
+      "role": "assistant",
+      "content": "I could not find any official campus notices or documentation matching your inquiry: **\"Where is the campus swimming pool located?\"**.\n\nThe campus team has not uploaded details for this topic yet. For unlisted inquiries, please visit the **Student Welfare Desk** (Block A Ground Floor) or check with the event coordinators at Prasad Institute of Technology.",
+      "createdAt": "2026-10-23T18:37:16.902Z",
+      "citations": [],
+      "groundingMode": "local-preview",
+      "modelUsed": "Safety Grounding Filter",
+      "retrievalScore": 0
+    }
+  ]
+}

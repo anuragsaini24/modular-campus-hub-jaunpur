@@ -1,0 +1,46 @@
+{
+  "id": "thread-1792779025914-mmaxd",
+  "title": "When will Wi-Fi maintenance take place?",
+  "createdAt": "2026-10-23T18:10:25.914Z",
+  "updatedAt": "2026-10-23T18:10:25.957Z",
+  "messages": [
+    {
+      "id": "msg-1792779025940-u",
+      "role": "user",
+      "content": "When will Wi-Fi maintenance take place?",
+      "createdAt": "2026-10-23T18:10:25.940Z"
+    },
+    {
+      "id": "msg-1792779025957-a",
+      "role": "assistant",
+      "content": "Based on verified PIT Jaunpur campus records:\n\n• **Emergency Wi-Fi Maintenance** (Academics & Campus):\n  Scheduled Wi-Fi maintenance will take place on Saturday at 2:00 PM for 15 minutes in Block B. High-speed 1Gbps connection will resume at 2:15 PM.... [Source: Emergency Wi-Fi Maintenance]\n\n• **Campus Facilities, Wi-Fi & Library Hours** (Academics & Campus):\n  # Campus Facilities, Wi-Fi & Central Library ## Campus Wi-Fi Access - **SSID 1:** `PIT-Student-Secure` — Connect using your student portal admission roll number and student portal password. - **SSID 2:** `PIT-Campus-Guest` — Available during hackathons and con... [Source: Campus Facilities, Wi-Fi & Library Hours]\n\n• **Campus Facilities, Wi-Fi & Library Hours** (Academics & Campus):\n  ## Central Library - **Location:** Central Block, Floors 1 & 2. - **Timings:** Monday through Saturday from 8:00 AM to 8:00 PM (extended to 10:00 PM during exam weeks and hackathons). - **Facilities:** Digital Reference Section with 60 workstations, private gr... [Source: Campus Facilities, Wi-Fi & Library Hours]\n\n*(Note: Grounded via local retrieval. For live neural Gemma 4 inference, add a free GEMINI_API_KEY from Google AI Studio in .env.local)*",
+      "createdAt": "2026-10-23T18:10:25.957Z",
+      "citations": [
+        {
+          "docId": "doc-1792779020789-q75h",
+          "title": "Emergency Wi-Fi Maintenance",
+          "category": "Academics & Campus",
+          "snippet": "Scheduled Wi-Fi maintenance will take place on Saturday at 2:00 PM for 15 minutes in Block B. High-speed 1Gbps connection will resume at 2:15 PM....",
+          "score": 1
+        },
+        {
+          "docId": "doc-campus-facilities-wifi",
+          "title": "Campus Facilities, Wi-Fi & Library Hours",
+          "category": "Academics & Campus",
+          "snippet": "# Campus Facilities, Wi-Fi & Central Library\n\n## Campus Wi-Fi Access\n- **SSID 1:** `PIT-Student-Secure` — Connect using your student portal admission roll numbe...",
+          "score": 0.9
+        },
+        {
+          "docId": "doc-campus-facilities-wifi",
+          "title": "Campus Facilities, Wi-Fi & Library Hours",
+          "category": "Academics & Campus",
+          "snippet": "## Central Library\n- **Location:** Central Block, Floors 1 & 2.\n- **Timings:** Monday through Saturday from 8:00 AM to 8:00 PM (extended to 10:00 PM during exam...",
+          "score": 0.8
+        }
+      ],
+      "groundingMode": "local-preview",
+      "modelUsed": "Local Grounded Engine ($0 Free Tier)",
+      "retrievalScore": 63.25
+    }
+  ]
+}

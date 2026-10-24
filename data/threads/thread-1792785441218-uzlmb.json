@@ -1,0 +1,46 @@
+{
+  "id": "thread-1792785441218-uzlmb",
+  "title": "When is the next hackathon?",
+  "createdAt": "2026-10-23T19:57:21.218Z",
+  "updatedAt": "2026-10-23T19:57:21.263Z",
+  "messages": [
+    {
+      "id": "msg-1792785441244-u",
+      "role": "user",
+      "content": "When is the next hackathon?",
+      "createdAt": "2026-10-23T19:57:21.244Z"
+    },
+    {
+      "id": "msg-1792785441263-a",
+      "role": "assistant",
+      "content": "Based on verified PIT Jaunpur campus records:\n\n• **Hacktoberfest Hack Day Jaunpur 2026 Official Guide** (Hackathons):\n  Hacktoberfest Hack Day Jaunpur 2026 **Date:** Saturday, 24 October 2026 **Timing:** 9:30 AM to 3:00 PM IST **Location:** Seminar Hall & Computer Center, Block B, Prasad Institute of Technology (PIT), Jaunpur, Uttar Pradesh. [Source: Hacktoberfest Hack Day Jaunpur 2026 Official Guide]\n\n• **Hacktoberfest Hack Day Jaunpur 2026 Official Guide** (Hackathons):\n  Schedule - 09:30 AM – 10:00 AM: Check-in, Badge Collection & Welcome Breakfast - 10:00 AM – 10:30 AM: Opening Keynote & Challenge Briefing (Gemma 4 & MLH Tracks) - 10:30 AM – 01:00 PM: Hacking Phase 1 & Mentor Round 1 - 01:00 PM – 01:45 PM: Free Networking Lunch & Refreshments (Cafeteria Lawn) - 01:45 PM – 02:45 PM: Ha... [Source: Hacktoberfest Hack Day Jaunpur 2026 Official Guide]\n\n• **Hacktoberfest Hack Day Jaunpur 2026 Official Guide** (Hackathons):\n  Sponsor Challenges & Free Perks - **Google Gemma Challenge:** Build applications leveraging Gemma 4 (gemma-4-31b-it / gemma-4-26b-a4b-it) via Google AI Studio free tier. - **Best Open-Source AI Project:** Rewarding modularity, clean code, documentation, and MIT open-source licensing. [Source: Hacktoberfest Hack Day Jaunpur 2026 Official Guide]\n\n*(Grounded via local retrieval. For live neural Gemma 4 inference, add a free GEMINI_API_KEY from Google AI Studio in .env.local)*",
+      "createdAt": "2026-10-23T19:57:21.263Z",
+      "citations": [
+        {
+          "docId": "doc-hacktoberfest-2026",
+          "title": "Hacktoberfest Hack Day Jaunpur 2026 Official Guide",
+          "category": "Hackathons",
+          "snippet": "Hacktoberfest Hack Day Jaunpur 2026 **Date:** Saturday, 24 October 2026 **Timing:** 9:30 AM to 3:00 PM IST **Location:** Seminar Hall & Computer Center, Block B, Prasad Institute o...",
+          "score": 1
+        },
+        {
+          "docId": "doc-hacktoberfest-2026",
+          "title": "Hacktoberfest Hack Day Jaunpur 2026 Official Guide",
+          "category": "Hackathons",
+          "snippet": "Schedule - 09:30 AM – 10:00 AM: Check-in, Badge Collection & Welcome Breakfast - 10:00 AM – 10:30 AM: Opening Keynote & Challenge Briefing (Gemma 4 & MLH Tracks) - 10:30 AM – 01:00...",
+          "score": 0.9
+        },
+        {
+          "docId": "doc-hacktoberfest-2026",
+          "title": "Hacktoberfest Hack Day Jaunpur 2026 Official Guide",
+          "category": "Hackathons",
+          "snippet": "Sponsor Challenges & Free Perks - **Google Gemma Challenge:** Build applications leveraging Gemma 4 (gemma-4-31b-it / gemma-4-26b-a4b-it) via Google AI Studio free tier.",
+          "score": 0.8
+        }
+      ],
+      "groundingMode": "local-preview",
+      "modelUsed": "Local Grounded Engine ($0 Free Tier)",
+      "retrievalScore": 52.04
+    }
+  ]
+}

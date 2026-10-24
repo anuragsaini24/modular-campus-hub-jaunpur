@@ -1,0 +1,24 @@
+{
+  "id": "thread-1792785441277-hx3la",
+  "title": "What are the swimming pool timings?",
+  "createdAt": "2026-10-23T19:57:21.277Z",
+  "updatedAt": "2026-10-23T19:57:21.298Z",
+  "messages": [
+    {
+      "id": "msg-1792785441292-u",
+      "role": "user",
+      "content": "What are the swimming pool timings?",
+      "createdAt": "2026-10-23T19:57:21.292Z"
+    },
+    {
+      "id": "msg-1792785441298-a",
+      "role": "assistant",
+      "content": "I could not find any official campus notices or documentation matching your inquiry: **\"What are the swimming pool timings?\"**.\n\nThe campus team has not uploaded details for this topic yet. For unlisted inquiries, please visit the **Student Welfare Desk** (Block A Ground Floor) or check with the event coordinators at Prasad Institute of Technology.",
+      "createdAt": "2026-10-23T19:57:21.298Z",
+      "citations": [],
+      "groundingMode": "local-preview",
+      "modelUsed": "Safety Grounding Filter",
+      "retrievalScore": 0
+    }
+  ]
+}

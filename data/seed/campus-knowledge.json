@@ -1,0 +1,38 @@
+[
+  {
+    "id": "doc-hacktoberfest-2026",
+    "title": "Hacktoberfest Hack Day Jaunpur 2026 Official Guide",
+    "category": "Hackathons",
+    "sourceType": "markdown",
+    "createdAt": "2026-10-23T08:00:00.000Z",
+    "updatedAt": "2026-10-23T08:00:00.000Z",
+    "content": "# Hacktoberfest Hack Day Jaunpur 2026\n\n**Date:** Saturday, 24 October 2026\n**Timing:** 9:30 AM to 3:00 PM IST\n**Location:** Seminar Hall & Computer Center, Block B, Prasad Institute of Technology (PIT), Jaunpur, Uttar Pradesh.\n\n## Event Overview\nHacktoberfest Hack Day Jaunpur is the premier open-source celebration hosted at Prasad Institute of Technology. The event brings together student developers, open-source contributors, and first-time coders across Eastern UP.\n\n## Schedule\n- 09:30 AM – 10:00 AM: Check-in, Badge Collection & Welcome Breakfast\n- 10:00 AM – 10:30 AM: Opening Keynote & Challenge Briefing (Gemma 4 & MLH Tracks)\n- 10:30 AM – 01:00 PM: Hacking Phase 1 & Mentor Round 1\n- 01:00 PM – 01:45 PM: Free Networking Lunch & Refreshments (Cafeteria Lawn)\n- 01:45 PM – 02:45 PM: Hacking Phase 2, Project Submissions & Pitch Demos\n- 02:45 PM – 03:00 PM: Awards Ceremony, Swag Distribution & Closing Photos\n\n## Sponsor Challenges & Free Perks\n- **Google Gemma Challenge:** Build applications leveraging Gemma 4 (gemma-4-31b-it / gemma-4-26b-a4b-it) via Google AI Studio free tier.\n- **Best Open-Source AI Project:** Rewarding modularity, clean code, documentation, and MIT open-source licensing.\n- **Backboard Track:** Free $5 credits for persistent context memory and multi-turn state sync.\n- **Render Track:** Free-tier cloud deployments with instant URLs.\n- **Free Perk for Attendees:** Every checked-in attendee receives a free 1-year .xyz domain voucher code and official Hacktoberfest stickers."
+  },
+  {
+    "id": "doc-team-formation",
+    "title": "Project Team Formation & Registration Guidelines",
+    "category": "Project Teams",
+    "sourceType": "markdown",
+    "createdAt": "2026-10-23T08:00:00.000Z",
+    "updatedAt": "2026-10-23T08:00:00.000Z",
+    "content": "# How to Form or Join a Project Team at PIT Jaunpur\n\n## Team Size Rules\n- Teams can consist of 1 to 4 members. Cross-department teams (e.g., Computer Science + Information Technology + Electronics) are strongly encouraged.\n- Solo participants are allowed, but collaborating in teams is recommended for better project velocity.\n\n## How to Find Teammates\n1. **Online Matchmaking:** Join the official PIT Discord server channel `#pit-team-formation` to post your skills (e.g., Frontend, Backend, UI/UX, AI/ML) and find open teams.\n2. **In-Person Matchmaking Desk:** If you arrive solo on hackathon morning, visit the Team Matching Desk at the Block B Entrance between 9:30 AM and 10:00 AM. Student coordinators will connect you with peers seeking team members.\n3. **Telegram Group:** Join the PIT Student Tech Circle group `@pit_developers` to discuss project ideas.\n\n## Registering Your Team\n- Once your team is formed, the team leader must register on the Hack Day Portal by 10:30 AM with:\n  - Team Name\n  - Member Names, Student Roll Numbers, and College Email IDs\n  - Chosen Track / Idea Summary\n  - GitHub Repository URL (must be public with an open-source license like MIT)."
+  },
+  {
+    "id": "doc-lost-and-found",
+    "title": "Campus Lost and Found Reporting Protocol",
+    "category": "Lost & Found",
+    "sourceType": "markdown",
+    "createdAt": "2026-10-23T08:00:00.000Z",
+    "updatedAt": "2026-10-23T08:00:00.000Z",
+    "content": "# Campus Lost & Found Reporting Protocol\n\n## Where to Report a Lost or Found Item\n- **Physical Office:** Student Welfare Desk (SWD), Ground Floor, Administrative Block A (opposite Room A-104), Prasad Institute of Technology, Jaunpur.\n- **Operating Timings:** Monday to Saturday, 9:00 AM to 4:30 PM IST.\n- **Helpline Phone:** Internal extension 402 or +91-5452-266500.\n- **Official Email:** lostfound@prasad.edu.in\n\n## Protocol for Reporting a Lost Item\n1. Visit the Student Welfare Desk or send an email with the subject line `[Lost Item] <Item Name> - <Date>`.\n2. Provide exact details:\n   - Description of the item (brand, color, serial number, phone model, stickers, or distinguishing marks).\n   - Date, time window, and location where you last possessed the item (e.g., Block B Computer Lab 3, Library 2nd floor, or Cafeteria).\n   - Your Full Name, Branch/Year, Student Roll Number, and Mobile Contact.\n3. The SWD officer logs the report into the central lost property register.\n\n## Protocol for Claiming Found Property\n- Found items are deposited in the secure custody room in Block A.\n- To claim an item, students must present their physical Student Identity Card and demonstrate proof of ownership (unlocking device screen passcode, invoice copy, or describing unique contents).\n- Unclaimed items are securely stored for 30 days before being donated to local charity partners."
+  },
+  {
+    "id": "doc-campus-facilities-wifi",
+    "title": "Campus Facilities, Wi-Fi & Library Hours",
+    "category": "Academics & Campus",
+    "sourceType": "markdown",
+    "createdAt": "2026-10-23T08:00:00.000Z",
+    "updatedAt": "2026-10-23T08:00:00.000Z",
+    "content": "# Campus Facilities, Wi-Fi & Central Library\n\n## Campus Wi-Fi Access\n- **SSID 1:** `PIT-Student-Secure` — Connect using your student portal admission roll number and student portal password.\n- **SSID 2:** `PIT-Campus-Guest` — Available during hackathons and conferences. Open captive portal and enter guest voucher or phone OTP.\n- **Bandwidth:** High-speed 1 Gbps NKN leased line enabled across all academic blocks.\n\n## Central Library\n- **Location:** Central Block, Floors 1 & 2.\n- **Timings:** Monday through Saturday from 8:00 AM to 8:00 PM (extended to 10:00 PM during exam weeks and hackathons).\n- **Facilities:** Digital Reference Section with 60 workstations, private group discussion rooms (bookable via library desk), and IEEE/ACM digital access.\n\n## Computer Labs & Coding Society\n- **Prasad Coding Society (PCS):** Meets every Wednesday and Saturday from 4:30 PM to 6:00 PM in Computer Lab 2 (Block B).\n- **Lab Access:** High-performance Linux and Windows workstations with pre-installed Python, Node.js, Docker, and VS Code."
+  }
+]

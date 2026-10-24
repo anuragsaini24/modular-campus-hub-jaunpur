@@ -1,0 +1,166 @@
+@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,700,500,400&f[]=satoshi@700,500,400&display=swap');
+@import "tailwindcss";
+
+:root {
+  --neo-yellow: #ffe17c;
+  --neo-charcoal: #171e19;
+  --neo-sage: #b7c6c2;
+  --neo-black: #000000;
+  --neo-white: #ffffff;
+  --neo-gray: #272727;
+}
+
+body {
+  background-color: var(--neo-charcoal);
+  color: var(--neo-black);
+  font-family: 'Satoshi', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: 'Cabinet Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: -0.03em;
+}
+
+/* Neo-Brutalist Hard Shadow Utilities (0 Blur) */
+.shadow-neo-sm {
+  box-shadow: 2px 2px 0px 0px #000000;
+}
+
+.shadow-neo {
+  box-shadow: 4px 4px 0px 0px #000000;
+}
+
+.shadow-neo-lg {
+  box-shadow: 8px 8px 0px 0px #000000;
+}
+
+.shadow-neo-xl {
+  box-shadow: 12px 12px 0px 0px #000000;
+}
+
+/* Mechanical Push Button Styles with 4px translate on hover */
+.neo-btn-primary {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0.875rem 1.75rem;
+  border: 2px solid #000000;
+  border-radius: 0.75rem;
+  box-shadow: 8px 8px 0px 0px #000000;
+  font-weight: 700;
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+.neo-btn-primary:hover {
+  transform: translate(4px, 4px);
+  box-shadow: 4px 4px 0px 0px #000000;
+}
+.neo-btn-primary:active {
+  transform: translate(8px, 8px);
+  box-shadow: 0px 0px 0px 0px #000000;
+}
+
+.neo-btn-secondary {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 0.875rem 1.75rem;
+  border: 2px solid #000000;
+  border-radius: 0.75rem;
+  box-shadow: 4px 4px 0px 0px #000000;
+  font-weight: 700;
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+.neo-btn-secondary:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0px 0px #000000;
+}
+.neo-btn-secondary:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0px 0px 0px 0px #000000;
+}
+
+.neo-btn-yellow {
+  background-color: #ffe17c;
+  color: #000000;
+  padding: 0.625rem 1.25rem;
+  border: 2px solid #000000;
+  border-radius: 0.5rem;
+  box-shadow: 4px 4px 0px 0px #000000;
+  font-weight: 700;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.neo-btn-yellow:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0px 0px #000000;
+}
+
+/* 32px x 32px Radial Dot Pattern on #ffe17c */
+.neo-dot-pattern {
+  background-image: radial-gradient(#000000 1.5px, transparent 1.5px);
+  background-size: 32px 32px;
+}
+
+/* Stroke Text for Hero Heading Keyword */
+.text-stroke-black {
+  -webkit-text-stroke: 2px #000000;
+  color: transparent;
+}
+
+/* Continuous Infinite Marquee Animation */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 25s linear infinite;
+}
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Asymmetric Testimonial Card Corners */
+.rounded-asymmetric {
+  border-top-right-radius: 1.5rem;
+  border-bottom-left-radius: 1.5rem;
+  border-top-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+/* Custom Scrollbars in Neo-Brutalist Theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #ffe17c;
+  border-left: 2px solid #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #171e19;
+  border: 2px solid #000000;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}

@@ -1,0 +1,24 @@
+{
+  "id": "thread-1792779013833-h4zb4",
+  "title": "Does the campus have an Olympic swimming pool...",
+  "createdAt": "2026-10-23T18:10:13.833Z",
+  "updatedAt": "2026-10-23T18:10:13.868Z",
+  "messages": [
+    {
+      "id": "msg-1792779013849-u",
+      "role": "user",
+      "content": "Does the campus have an Olympic swimming pool?",
+      "createdAt": "2026-10-23T18:10:13.849Z"
+    },
+    {
+      "id": "msg-1792779013867-a",
+      "role": "assistant",
+      "content": "I could not find any official campus notices or documentation matching your inquiry: **\"Does the campus have an Olympic swimming pool?\"**.\n\nThe campus team has not uploaded details for this topic yet. For unlisted inquiries, please visit the **Student Welfare Desk** (Block A Ground Floor) or check with the event coordinators at Prasad Institute of Technology.",
+      "createdAt": "2026-10-23T18:10:13.867Z",
+      "citations": [],
+      "groundingMode": "local-preview",
+      "modelUsed": "Safety Grounding Filter",
+      "retrievalScore": 0
+    }
+  ]
+}

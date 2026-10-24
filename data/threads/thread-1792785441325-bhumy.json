@@ -1,0 +1,32 @@
+{
+  "id": "thread-1792785441325-bhumy",
+  "title": "When is the blood donation camp?",
+  "createdAt": "2026-10-23T19:57:21.325Z",
+  "updatedAt": "2026-10-23T19:57:21.360Z",
+  "messages": [
+    {
+      "id": "msg-1792785441344-u",
+      "role": "user",
+      "content": "When is the blood donation camp?",
+      "createdAt": "2026-10-23T19:57:21.344Z"
+    },
+    {
+      "id": "msg-1792785441360-a",
+      "role": "assistant",
+      "content": "Based on verified PIT Jaunpur campus records:\n\n• **Campus Blood Donation Camp 1792785441310** (Academics & Campus):\n  The annual Red Cross Blood Donation Camp takes place at Seminar Hall Block B on 5 November 2026. [Source: Campus Blood Donation Camp 1792785441310]\n\n*(Grounded via local retrieval. For live neural Gemma 4 inference, add a free GEMINI_API_KEY from Google AI Studio in .env.local)*",
+      "createdAt": "2026-10-23T19:57:21.360Z",
+      "citations": [
+        {
+          "docId": "doc-1792785441311-8sfq",
+          "title": "Campus Blood Donation Camp 1792785441310",
+          "category": "Academics & Campus",
+          "snippet": "The annual Red Cross Blood Donation Camp takes place at Seminar Hall Block B on 5 November 2026.",
+          "score": 1
+        }
+      ],
+      "groundingMode": "local-preview",
+      "modelUsed": "Local Grounded Engine ($0 Free Tier)",
+      "retrievalScore": 109.13
+    }
+  ]
+}

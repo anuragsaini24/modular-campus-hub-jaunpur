@@ -1,0 +1,46 @@
+{
+  "id": "thread-1792779008400-ngni1",
+  "title": "Where do I report a lost item?",
+  "createdAt": "2026-10-23T18:10:08.400Z",
+  "updatedAt": "2026-10-23T18:10:08.434Z",
+  "messages": [
+    {
+      "id": "msg-1792779008416-u",
+      "role": "user",
+      "content": "Where do I report a lost item?",
+      "createdAt": "2026-10-23T18:10:08.416Z"
+    },
+    {
+      "id": "msg-1792779008434-a",
+      "role": "assistant",
+      "content": "Based on verified PIT Jaunpur campus records:\n\n• **Campus Lost and Found Reporting Protocol** (Lost & Found):\n  # Campus Lost & Found Reporting Protocol ## Where to Report a Lost or Found Item - **Physical Office:** Student Welfare Desk (SWD), Ground Floor, Administrative Block A (opposite Room A-104), Prasad Institute of Technology, Jaunpur. - **Operating Timings:** Mo... [Source: Campus Lost and Found Reporting Protocol]\n\n• **Campus Lost and Found Reporting Protocol** (Lost & Found):\n  ## Protocol for Reporting a Lost Item 1. Visit the Student Welfare Desk or send an email with the subject line `[Lost Item] <Item Name> - <Date>`. 2. Provide exact details:    - Description of the item (brand, color, serial number, phone model, stickers, or di... [Source: Campus Lost and Found Reporting Protocol]\n\n• **Campus Lost and Found Reporting Protocol** (Lost & Found):\n  ## Protocol for Claiming Found Property - Found items are deposited in the secure custody room in Block A. - To claim an item, students must present their physical Student Identity Card and demonstrate proof of ownership (unlocking device screen passcode, invo... [Source: Campus Lost and Found Reporting Protocol]\n\n*(Note: Grounded via local retrieval. For live neural Gemma 4 inference, add a free GEMINI_API_KEY from Google AI Studio in .env.local)*",
+      "createdAt": "2026-10-23T18:10:08.434Z",
+      "citations": [
+        {
+          "docId": "doc-lost-and-found",
+          "title": "Campus Lost and Found Reporting Protocol",
+          "category": "Lost & Found",
+          "snippet": "# Campus Lost & Found Reporting Protocol\n\n## Where to Report a Lost or Found Item\n- **Physical Office:** Student Welfare Desk (SWD), Ground Floor, Administrativ...",
+          "score": 1
+        },
+        {
+          "docId": "doc-lost-and-found",
+          "title": "Campus Lost and Found Reporting Protocol",
+          "category": "Lost & Found",
+          "snippet": "## Protocol for Reporting a Lost Item\n1. Visit the Student Welfare Desk or send an email with the subject line `[Lost Item] <Item Name> - <Date>`.\n2. Provide ex...",
+          "score": 0.9
+        },
+        {
+          "docId": "doc-lost-and-found",
+          "title": "Campus Lost and Found Reporting Protocol",
+          "category": "Lost & Found",
+          "snippet": "## Protocol for Claiming Found Property\n- Found items are deposited in the secure custody room in Block A.\n- To claim an item, students must present their physi...",
+          "score": 0.8
+        }
+      ],
+      "groundingMode": "local-preview",
+      "modelUsed": "Local Grounded Engine ($0 Free Tier)",
+      "retrievalScore": 49.63
+    }
+  ]
+}
